@@ -4,7 +4,7 @@
 
 - <b>Python Projects</b>
   - [BlackJack](https://github.com/KaydenVandecaveye/BlackJackGame)
-  - [Sudoku Solver](https://github.com/KaydenVandecaveye/BlackJackGame)
+  - [Sudoku Solver](https://github.com/KaydenVandecaveye/SudokuSolver)
   
 
 
