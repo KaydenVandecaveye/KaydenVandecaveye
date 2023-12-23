@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Interactive BlackJack Game</b>
+- <b>Python Projects</b>
   - [BlackJack](https://github.com/KaydenVandecaveye/BlackJackGame)
+  - [Sudoku Solver](https://github.com/KaydenVandecaveye/BlackJackGame)
   
 
 
